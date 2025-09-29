@@ -2,16 +2,16 @@
 ## Overview
 This is a web scrapper of  Directory 'https://www.bbb.org/' 
 Extract following fields 
-URL
-Title
-Business Mangagement
-Contact Information
-Location
-Number of Employees
-Years in Business
-Rating
-Website
-Keywords
+1. URL
+2. Title
+3. Business Mangagement
+4. Contact Information
+5. Location
+6. Number of Employees
+7. Years in Business
+8. Rating
+9. Website
+10. Keywords
 
 ## Editing 
 In line 11 there is variable "queries" which is a dictionary you can edit that dictionary with keyword along with all locations that you want to scrape .... 
