@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Selenium/WebDriver files
+chromedriver
+chromedriver.exe
+webdriver/
+drivers/
+
+# Logs
+*.log
+
+# Output files
+*.csv
+*.xlsx
+output/
+data/
+results/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python egg metadata
+*.egg-info/
